@@ -1,4 +1,4 @@
-  MongoDB Notes.
+MongoDB Notes
 
     // db.students.insertMany([
     //     {First_Name : "Prem",
